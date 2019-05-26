@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ServiceDayaListrik", "..\..\WebSites\ServiceDayaListrik\", "{00F5E3A4-1568-4B51-A455-37BDC2BBBC67}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/ServiceDayaListrik"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\ServiceDayaListrik\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ServiceDayaListrik\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ServiceDayaListrik"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\ServiceDayaListrik\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ServiceDayaListrik\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49630"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00F5E3A4-1568-4B51-A455-37BDC2BBBC67}.Debug|.NET.ActiveCfg = Debug|.NET
+		{00F5E3A4-1568-4B51-A455-37BDC2BBBC67}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

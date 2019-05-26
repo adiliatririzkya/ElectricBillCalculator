@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="Pemakaian_PerMenit">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="watt" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="jumlah_menit" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="tarif_perkwh" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Pemakaian_PerMenitResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Pemakaian_PerMenitResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Pemakaian_PerJam">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="watt" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="jumlah_jam" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="tarif_perkwh" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Pemakaian_PerJamResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Pemakaian_PerJamResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Pemakaian_PerHari">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="watt" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="jumlah_jam" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="jumlah_menit" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="tarif_perkwh" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Pemakaian_PerHariResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Pemakaian_PerHariResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Pemakaian_PerBulan">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="watt" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="jumlah_jam" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="jumlah_menit" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="tarif_perkwh" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="hari" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Pemakaian_PerBulanResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Pemakaian_PerBulanResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="Pemakaian_PerMenitSoapIn">
+    <wsdl:part name="parameters" element="tns:Pemakaian_PerMenit" />
+  </wsdl:message>
+  <wsdl:message name="Pemakaian_PerMenitSoapOut">
+    <wsdl:part name="parameters" element="tns:Pemakaian_PerMenitResponse" />
+  </wsdl:message>
+  <wsdl:message name="Pemakaian_PerJamSoapIn">
+    <wsdl:part name="parameters" element="tns:Pemakaian_PerJam" />
+  </wsdl:message>
+  <wsdl:message name="Pemakaian_PerJamSoapOut">
+    <wsdl:part name="parameters" element="tns:Pemakaian_PerJamResponse" />
+  </wsdl:message>
+  <wsdl:message name="Pemakaian_PerHariSoapIn">
+    <wsdl:part name="parameters" element="tns:Pemakaian_PerHari" />
+  </wsdl:message>
+  <wsdl:message name="Pemakaian_PerHariSoapOut">
+    <wsdl:part name="parameters" element="tns:Pemakaian_PerHariResponse" />
+  </wsdl:message>
+  <wsdl:message name="Pemakaian_PerBulanSoapIn">
+    <wsdl:part name="parameters" element="tns:Pemakaian_PerBulan" />
+  </wsdl:message>
+  <wsdl:message name="Pemakaian_PerBulanSoapOut">
+    <wsdl:part name="parameters" element="tns:Pemakaian_PerBulanResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServiceSoap">
+    <wsdl:operation name="Pemakaian_PerMenit">
+      <wsdl:input message="tns:Pemakaian_PerMenitSoapIn" />
+      <wsdl:output message="tns:Pemakaian_PerMenitSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Pemakaian_PerJam">
+      <wsdl:input message="tns:Pemakaian_PerJamSoapIn" />
+      <wsdl:output message="tns:Pemakaian_PerJamSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Pemakaian_PerHari">
+      <wsdl:input message="tns:Pemakaian_PerHariSoapIn" />
+      <wsdl:output message="tns:Pemakaian_PerHariSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Pemakaian_PerBulan">
+      <wsdl:input message="tns:Pemakaian_PerBulanSoapIn" />
+      <wsdl:output message="tns:Pemakaian_PerBulanSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServiceSoap" type="tns:ServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Pemakaian_PerMenit">
+      <soap:operation soapAction="http://tempuri.org/Pemakaian_PerMenit" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Pemakaian_PerJam">
+      <soap:operation soapAction="http://tempuri.org/Pemakaian_PerJam" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Pemakaian_PerHari">
+      <soap:operation soapAction="http://tempuri.org/Pemakaian_PerHari" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Pemakaian_PerBulan">
+      <soap:operation soapAction="http://tempuri.org/Pemakaian_PerBulan" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServiceSoap12" type="tns:ServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Pemakaian_PerMenit">
+      <soap12:operation soapAction="http://tempuri.org/Pemakaian_PerMenit" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Pemakaian_PerJam">
+      <soap12:operation soapAction="http://tempuri.org/Pemakaian_PerJam" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Pemakaian_PerHari">
+      <soap12:operation soapAction="http://tempuri.org/Pemakaian_PerHari" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Pemakaian_PerBulan">
+      <soap12:operation soapAction="http://tempuri.org/Pemakaian_PerBulan" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service">
+    <wsdl:port name="ServiceSoap" binding="tns:ServiceSoap">
+      <soap:address location="http://localhost/ServiceDayaListrik/Service.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServiceSoap12" binding="tns:ServiceSoap12">
+      <soap12:address location="http://localhost/ServiceDayaListrik/Service.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

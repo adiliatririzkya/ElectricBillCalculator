@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ServiceDayaListrik">
+</Property><Property Name="Solution File" Value="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Dekstop\ServiceDayaListrik\Backup\ServiceDayaListrik.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Dekstop\ServiceDayaListrik\Backup\ServiceDayaListrik.suo">
+</Property><Property Name="Date" Value="Sabtu, 18 Mei 2019">
+</Property><Property Name="Time" Value="22.59">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ServiceDayaListrik.sln" Description="File successfully backed up as C:\Users\Adiliatr\Downloads\Programs\app smt 6\Dekstop\ServiceDayaListrik\Backup\Backup\ServiceDayaListrik.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ServiceDayaListrik.suo" Description="File successfully backed up as C:\Users\Adiliatr\Downloads\Programs\app smt 6\Dekstop\ServiceDayaListrik\Backup\Backup\ServiceDayaListrik.suo">
+</Event><Event ErrorLevel="1" Project="" Source="..\..\WebSites\ServiceDayaListrik\" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="2" Project="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Dekstop\WebSites\ServiceDayaListrik\" Source="..\..\WebSites\ServiceDayaListrik\" Description="ERROR: Failed to back up Web site C:\Users\Adiliatr\Downloads\Programs\app smt 6\Dekstop\WebSites\ServiceDayaListrik\">
+</Event><Event ErrorLevel="0" Project="" Source="ServiceDayaListrik.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ServiceDayaListrik.sln" Description="Converted">
+</Event></UpgradeLog>

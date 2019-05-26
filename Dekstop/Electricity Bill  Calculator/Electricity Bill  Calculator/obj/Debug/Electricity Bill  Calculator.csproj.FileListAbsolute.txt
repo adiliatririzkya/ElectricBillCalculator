@@ -1,0 +1,26 @@
+C:\Users\Fuji Baetulloh\Documents\Visual Studio 2008\Projects\Electricity Bill  Calculator\Electricity Bill  Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fuji Baetulloh\Documents\Visual Studio 2008\Projects\Electricity Bill  Calculator\Electricity Bill  Calculator\obj\Debug\Electricity_Bill__Calculator.Form1.resources
+C:\Users\Fuji Baetulloh\Documents\Visual Studio 2008\Projects\Electricity Bill  Calculator\Electricity Bill  Calculator\obj\Debug\Electricity_Bill__Calculator.Form2.resources
+C:\Users\Fuji Baetulloh\Documents\Visual Studio 2008\Projects\Electricity Bill  Calculator\Electricity Bill  Calculator\obj\Debug\Electricity_Bill__Calculator.Properties.Resources.resources
+C:\Users\Fuji Baetulloh\Documents\Visual Studio 2008\Projects\Electricity Bill  Calculator\Electricity Bill  Calculator\obj\Debug\Electricity Bill  Calculator.csproj.GenerateResource.Cache
+C:\Users\Fuji Baetulloh\Documents\Visual Studio 2008\Projects\Electricity Bill  Calculator\Electricity Bill  Calculator\bin\Debug\Electricity Bill  Calculator.exe
+C:\Users\Fuji Baetulloh\Documents\Visual Studio 2008\Projects\Electricity Bill  Calculator\Electricity Bill  Calculator\bin\Debug\Electricity Bill  Calculator.pdb
+C:\Users\Fuji Baetulloh\Documents\Visual Studio 2008\Projects\Electricity Bill  Calculator\Electricity Bill  Calculator\obj\Debug\Electricity Bill  Calculator.exe
+C:\Users\Fuji Baetulloh\Documents\Visual Studio 2008\Projects\Electricity Bill  Calculator\Electricity Bill  Calculator\obj\Debug\Electricity Bill  Calculator.pdb
+C:\Users\Fuji Baetulloh\Documents\Visual Studio 2008\Projects\Electricity Bill  Calculator\Electricity Bill  Calculator\obj\Debug\Electricity_Bill__Calculator.Form3.resources
+C:\Users\Fuji Baetulloh\Documents\Visual Studio 2008\Projects\Electricity Bill  Calculator\Electricity Bill  Calculator\obj\Debug\Electricity_Bill__Calculator.Form4.resources
+C:\Users\Fuji Baetulloh\Documents\Visual Studio 2008\Projects\Electricity Bill  Calculator\Electricity Bill  Calculator\obj\Debug\Electricity_Bill__Calculator.Form5.resources
+C:\Users\Fuji Baetulloh\Documents\Visual Studio 2008\Projects\Electricity Bill  Calculator\Electricity Bill  Calculator\bin\Debug\Electricity Bill  Calculator.exe.config
+C:\Users\Adiliatr\Downloads\Programs\app smt 6\Dekstop\Electricity Bill  Calculator\Electricity Bill  Calculator\bin\Debug\Electricity Bill  Calculator.exe.config
+C:\Users\Adiliatr\Downloads\Programs\app smt 6\Dekstop\Electricity Bill  Calculator\Electricity Bill  Calculator\obj\Debug\Electricity Bill  Calculator.exe
+C:\Users\Adiliatr\Downloads\Programs\app smt 6\Dekstop\Electricity Bill  Calculator\Electricity Bill  Calculator\obj\Debug\Electricity Bill  Calculator.pdb
+C:\Users\Adiliatr\Downloads\Programs\app smt 6\Dekstop\Electricity Bill  Calculator\Electricity Bill  Calculator\bin\Debug\Electricity Bill  Calculator.exe
+C:\Users\Adiliatr\Downloads\Programs\app smt 6\Dekstop\Electricity Bill  Calculator\Electricity Bill  Calculator\bin\Debug\Electricity Bill  Calculator.pdb
+C:\Users\Adiliatr\Downloads\Programs\app smt 6\Dekstop\Electricity Bill  Calculator\Electricity Bill  Calculator\obj\Debug\Electricity_Bill__Calculator.Form1.resources
+C:\Users\Adiliatr\Downloads\Programs\app smt 6\Dekstop\Electricity Bill  Calculator\Electricity Bill  Calculator\obj\Debug\Electricity_Bill__Calculator.Form2.resources
+C:\Users\Adiliatr\Downloads\Programs\app smt 6\Dekstop\Electricity Bill  Calculator\Electricity Bill  Calculator\obj\Debug\Electricity_Bill__Calculator.Form3.resources
+C:\Users\Adiliatr\Downloads\Programs\app smt 6\Dekstop\Electricity Bill  Calculator\Electricity Bill  Calculator\obj\Debug\Electricity_Bill__Calculator.Form4.resources
+C:\Users\Adiliatr\Downloads\Programs\app smt 6\Dekstop\Electricity Bill  Calculator\Electricity Bill  Calculator\obj\Debug\Electricity_Bill__Calculator.Form5.resources
+C:\Users\Adiliatr\Downloads\Programs\app smt 6\Dekstop\Electricity Bill  Calculator\Electricity Bill  Calculator\obj\Debug\Electricity_Bill__Calculator.Properties.Resources.resources
+C:\Users\Adiliatr\Downloads\Programs\app smt 6\Dekstop\Electricity Bill  Calculator\Electricity Bill  Calculator\obj\Debug\Electricity Bill  Calculator.csproj.GenerateResource.Cache
+C:\Users\Adiliatr\Downloads\Programs\app smt 6\Dekstop\Electricity Bill  Calculator\Electricity Bill  Calculator\obj\Debug\Electricity Bill  Calculator.csprojResolveAssemblyReference.cache
