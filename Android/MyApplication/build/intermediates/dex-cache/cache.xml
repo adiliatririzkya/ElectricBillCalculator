@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.android\build-cache\2c66c7b78a7b3be36a78dc6363d0dd34014ab811\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_adb4def663d9b2f7ed1d5fc3ae2dd52e93849b19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.gradle\caches\modules-2\files-2.1\com.google.code.ksoap2-android\ksoap2-base\3.6.1\9fc3ebe4d687f5b8f14f730a2c71ea5a884ff21c\ksoap2-base-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9fc3ebe4d687f5b8f14f730a2c71ea5a884ff21c">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\ksoap2-base-3.6.1_09092b32f153c2dd5fd747f6932272e8dc8e5075.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha8\constraint-layout-solver-1.0.0-alpha8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha8_641123a884038c6e07910c8b2b0bae16d9872179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.android\build-cache\7bb3e8c57c939c066eb864efb357f16edf5b2294\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_58e0251853cb2a2e35f6f0adb6d4078113fda5a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\okio-1.6.0_dc1fbe32e25719cb7ef0b7b724ea6a002bb69c2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_eedabfc5792b2f9174d07fb00194dcb3c8627337.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.gradle\caches\modules-2\files-2.1\net.sourceforge.kxml\kxml\2.2.4\1642506e490548d96984b8370e44257c156097f7\kxml-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1642506e490548d96984b8370e44257c156097f7">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\kxml-2.2.4_95cb9d8ce335976723a835cd2c731ddebfede7bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.android\build-cache\9c01cd2f062369cf700f84c85356f86eb33d7e87\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_5f4186efef8f6f1ae0bc14ef6e2d2d8cb30f6b1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.android\build-cache\248503e26052a87d3973568753fc2a91018d232b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_18265fc2fcc76dcd2ebbbed5461ab0540e29ed99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.android\build-cache\7c3bf7dd2ab0b8fececb2e66be3662df18d059ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_dea02bfb894ee4c97b1a4d8050698a6762b686c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.android\build-cache\64d1a4dc6720f36d24c52a3d216c5ab79b79571c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_5793d0c080fd54b7a5dea784d3a455c82b274b98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_ea6ebd08c4bb8c4712d4b3f2d7b1daa4372f8468.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.2.0\6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c\okhttp-urlconnection-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.2.0_4cf60ef082b2be4d467adfbae5a6f9953c4f7e6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.gradle\caches\modules-2\files-2.1\org.xmlpull\xmlpull\1.1.3.3\9b62254da05ce6399a09164362da7b2419de63ca\xmlpull-1.1.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9b62254da05ce6399a09164362da7b2419de63ca">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\xmlpull-1.1.3.3_63d2257eabdcee409600d07afca28360acea6c7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.android\build-cache\4222879c0a8f2ed69b996fd1486a5fe260c624ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_c03bd9fcd7b64458d6c0dee88f9084242a2050d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.android\build-cache\2c66c7b78a7b3be36a78dc6363d0dd34014ab811\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_5e346f517421058a1bb153d206cc4873cade35fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.android\build-cache\847156c6cf368216cf73955a89443b2610138aca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_9ea011ef7ed954fc3ec8aa21fba639666ba6ef51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.android\build-cache\cf41235f8fcd66f334bb99d8a2a5cb4aa945aeae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_77c985076f096b9cfe6991ae450c21cef646ee1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.android\build-cache\2138f072f2dda4b60d7b583f9b68fd9ecf57ff56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_fc0e8a286329f113a9b190f3d901ed912832510b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.gradle\caches\modules-2\files-2.1\com.google.code.ksoap2-android\ksoap2-j2se\3.6.1\3923b9682244307a31d53261cfb245880d84e40\ksoap2-j2se-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03923b9682244307a31d53261cfb245880d84e40">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\ksoap2-j2se-3.6.1_9487e1ce2bdefac526252af28b42a2509a7c5a7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.android\build-cache\c0b965e346e168132b5ed40b92b3a372c53611ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_a2f8e8597ef508927c3af9f509dc42a7cf9af94b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.android\build-cache\5e37fcf5b55389c8525446d6be363dbc3c6a12d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_c1e1b0c274201a263d792974abadeedaf9397c62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.android\build-cache\5944385c1a4a98557a3334e311933cd2b8ffb209\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_690a0755ac82c67c8963c43ef8bd973e7b16fd78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.android\build-cache\c1b7bb09b8aa692f87d8e8965e5311de7ab3e2e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_e0a22c21b8f1e0e67da69cdaa9300752e3dd05eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.android\build-cache\7c3bf7dd2ab0b8fececb2e66be3662df18d059ca\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_c23ef4b868e4c75b7236a5cf0f51ed95e67a9076.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.gradle\caches\modules-2\files-2.1\net.sourceforge.kobjects\kobjects-j2me\0.0-SNAPSHOT-20040926-2\9246ca92b16c65114a7fb80b906801e06be95305\kobjects-j2me-0.0-SNAPSHOT-20040926-2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9246ca92b16c65114a7fb80b906801e06be95305">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\kobjects-j2me-0.0-SNAPSHOT-20040926-2_67357c0266a7dc559322fc0e661afa059a4601f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.android\build-cache\c46f8e69d807efadde76bf8d0b4176195a708fb3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_88a79fb00121874e6df995f186232004d637e48e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.android\build-cache\5e37fcf5b55389c8525446d6be363dbc3c6a12d7\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_c9622ca2bfc66abf31a647f8f9000bc518201500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.android\build-cache\64d1a4dc6720f36d24c52a3d216c5ab79b79571c\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_74e6dd91c463298e3589ecc78c98122c1c272644.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adiliatr\.android\build-cache\847156c6cf368216cf73955a89443b2610138aca\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Adiliatr\Downloads\Programs\app smt 6\Android\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_41fec82209de5376d65725499bd79413d4fd0288.jar" />
+    </item>
+
+</items>
